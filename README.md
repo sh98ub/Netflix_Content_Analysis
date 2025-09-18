@@ -12,7 +12,7 @@ This project explores the Netflix dataset using Tableau, a powerful data visuali
 - [Contributing](#contributing)
 - [License](#license)
 
-- ![Project Screenshot]( https://drive.google.com/file/d/1FI3qcnNvAVW0X3ryluOBgwRIEKePtIxN/view?usp=sharing)
+![Project Screenshot](https://drive.google.com/uc?export=view&id=1FI3qcnNvAVW0X3ryluOBgwRIEKePtIxN)
 
 ## Description
 
